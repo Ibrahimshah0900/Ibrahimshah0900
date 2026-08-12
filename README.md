@@ -6,6 +6,7 @@ I'm a Machine Learning Enthusiast....!
 🤖 Passionate about Machine Learning, Computer Vision, and AI  
 📫 Reach me at: Ibrahimhashmi558@gmail.com  
 🔗🔗 LinkedIn: linkedin.com/in/ibrahim-ai-dev
+🔗 All Links: https://linktr.ee/ibrahimhashmi558
 
 ### 🛠 Tech Stack
 - Python, C++, Java, JavaScript  
