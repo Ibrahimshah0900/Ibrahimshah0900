@@ -1,17 +1,26 @@
-Hi there 👋 I'm Ibrahim Hashmi
-I'm a Machine Learning Enthusiast....!
-
+# 👋 Hi, I'm Muhammad Ibrahim Hashmi
 
 🎓 BS Artificial Intelligence Student (7th Semester)  
-🤖 Passionate about Machine Learning, Computer Vision, and AI  
-📫 Reach me at: Ibrahimhashmi558@gmail.com  
-🔗🔗 LinkedIn: linkedin.com/in/ibrahim-ai-dev
-🔗 All Links: https://linktr.ee/ibrahimhashmi558
+📍 Islamabad, Pakistan  
+📧 Ibrahimhashmi558@gmail.com  
 
-### 🛠 Tech Stack
-- Python, C++, Java, JavaScript  
-- TensorFlow, Scikit-learn, YOLO, OpenCV  
-- Node.js, Express, React Native  
-- MySQL, SQLite  
-- Git & GitHub
+## 🚀 About Me
+I'm passionate about building intelligent systems using Machine Learning, Computer Vision, and AI.  
+Currently working on my Final Year Project — an AI-powered public safety system.
 
+## 🛠 Tech Stack
+- **Languages:** Python, C++, Java, JavaScript  
+- **AI/ML:** TensorFlow, Scikit-learn, YOLO, OpenCV, NLP  
+- **Web & Mobile:** Node.js, Express, React Native  
+- **Databases:** MySQL, SQLite  
+- **Tools:** Git, GitHub, VS Code, Google Colab  
+
+## 📌 Featured Projects
+- Pur-Aman Pakistan – AI-powered public safety system  
+- YOLOv8 Performance Evaluation  
+- Movie Recommendation System  
+- Student Grades Management System  
+
+## 🔗 Connect With Me
+- LinkedIn: [ibrahim-ai-dev](https://www.linkedin.com/in/ibrahim-ai-dev/)  
+- All Links: [linktr.ee/ibrahimhashmi558](https://linktr.ee/ibrahimhashmi558)  
