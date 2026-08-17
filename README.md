@@ -1,3 +1,5 @@
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Muhammad%20Ibrahim%20Hashmi&fontSize=35&fontColor=000000&animation=fadeIn)
+
 # 🚀 Muhammad Ibrahim Hashmi
 
 ### AI Student | Machine Learning & Computer Vision | Python Developer
