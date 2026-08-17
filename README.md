@@ -56,17 +56,6 @@ Evaluated YOLOv8 on COCO dataset under different real-world conditions.
 Content-based recommender using TF-IDF and Cosine Similarity.  
 `Python` `Scikit-learn` `Streamlit`
 
----
-
-## 📊 GitHub Stats
-
-![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ibrahimshah0900&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahimshah0900&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Ibrahimshah0900&theme=radical)
-
----
 
 ## 🔗 Connect With Me
 
