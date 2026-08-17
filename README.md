@@ -5,22 +5,22 @@
 📧 Ibrahimhashmi558@gmail.com  
 
 ## 🚀 About Me
-I'm passionate about building intelligent systems using Machine Learning, Computer Vision, and AI.  
-Currently working on my Final Year Project — an AI-powered public safety system.
+AI student passionate about Machine Learning, Computer Vision, and building real-world AI tools.  
+Currently working on my FYP and AI Resume Builder.
 
 ## 🛠 Tech Stack
-- **Languages:** Python, C++, Java, JavaScript  
-- **AI/ML:** TensorFlow, Scikit-learn, YOLO, OpenCV, NLP  
-- **Web & Mobile:** Node.js, Express, React Native  
-- **Databases:** MySQL, SQLite  
-- **Tools:** Git, GitHub, VS Code, Google Colab  
+- Python, C++, Java, JavaScript  
+- TensorFlow, Scikit-learn, YOLO, OpenCV  
+- Streamlit, Node.js, React Native  
+- MySQL, SQLite  
+- Git & GitHub  
 
 ## 📌 Featured Projects
-- Pur-Aman Pakistan – AI-powered public safety system  
+- AI Resume Builder  
+- Pur-Aman Pakistan (FYP)  
 - YOLOv8 Performance Evaluation  
 - Movie Recommendation System  
-- Student Grades Management System  
 
 ## 🔗 Connect With Me
-- LinkedIn: [ibrahim-ai-dev](https://www.linkedin.com/in/ibrahim-ai-dev/)  
-- All Links: [linktr.ee/ibrahimhashmi558](https://linktr.ee/ibrahimhashmi558)  
+- LinkedIn: linkedin.com/in/ibrahim-ai-dev  
+- All Links: linktr.ee/ibrahimhashmi558  
