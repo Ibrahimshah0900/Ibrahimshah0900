@@ -22,6 +22,8 @@ Currently:
 
 ---
 
+✅ Kaggle – Intermediate Machine Learning Certificate
+
 ## 🛠 Tech Stack
 
 **Languages:**  
