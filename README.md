@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Muhammad%20Ibrahim%20Hashmi&fontAlign=50&fontAlignY=35&desc=Applied%20AI%20%7C%20Computer%20Vision%20%7C%20Python%20Developer&descAlign=50&descAlignY=55&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Muhammad%20Ibrahim%20Hashmi&fontSize=34&fontAlign=50&fontAlignY=35&desc=Applied%20AI%20%7C%20Computer%20Vision%20%7C%20Python%20Developer&descSize=16&descAlign=50&descAlignY=58&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
@@ -171,3 +171,31 @@ The project is being developed as a production-oriented application involving:
 🤗 Learning      → Hugging Face NLP
 🐍 Developing    → Python & AI Systems
 🚀 Goal          → Turn AI skills into production-ready products
+
+
+🎓 Education
+BS Artificial Intelligence
+
+Currently in the 7th Semester
+
+🏆 Certifications
+
+🤝 Open To
+
+💼 AI / ML Internships
+👁️ Computer Vision Opportunities
+🤖 Junior AI / ML Roles
+🐍 Python Development
+⚡ AI Application Development
+🌍 Remote Opportunities
+🧑‍💻 Freelance AI / Python Projects
+🔬 Research & Technical Collaborations
+
+📫 Let's Connect
+<p align="center"> <a href="https://github.com/Ibrahimshah0900"> <img src="https://img.shields.io/badge/GitHub-Connect-181717?style=for-the-badge&logo=github" /> </a> </p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4000&pause=1000&center=true&vCenter=true&width=650&lines=Building+practical+AI+systems.;Turning+machine+learning+into+usable+products.;Always+learning.+Always+building." /> </p> <p align="center"> <b>⚡ Learn → Build → Deploy → Improve</b> </p> <!-- ===================== FOOTER ===================== --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer" width="100%" /> </p> ```
+What I added
+
+The cool parts now include animated typing text, an animated wave header/footer, live profile-view counter, GitHub stats, top languages, streak stats, visual technology icons, polished badges, emojis, and a much stronger flagship-project presentation.
+
+I deliberately did not add the contribution snake yet. That one requires adding a GitHub Actions workflow to your profile repository; we can add it later when Codex/GitHub automation is working.
