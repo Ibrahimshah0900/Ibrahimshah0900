@@ -6,7 +6,7 @@
   <img
     src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Muhammad%20Ibrahim%20Hashmi&fontSize=34&fontAlign=50&fontAlignY=35&desc=Applied%20AI%20%7C%20Computer%20Vision%20%7C%20Python%20Developer&descSize=16&descAlign=50&descAlignY=58&animation=fadeIn"
     width="100%"
-    alt="Profile Header"
+    alt="Muhammad Ibrahim Hashmi"
   />
 </p>
 
@@ -20,10 +20,16 @@
 <p align="center">
 
 <a href="https://github.com/Ibrahimshah0900">
-  <img src="https://img.shields.io/badge/GitHub-Ibrahimshah0900-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img
+    src="https://img.shields.io/badge/GitHub-Ibrahimshah0900-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Ibrahimshah0900&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+<img
+  src="https://komarev.com/ghpvc/?username=Ibrahimshah0900&style=for-the-badge&label=PROFILE+VIEWS"
+  alt="Profile Views"
+/>
 
 </p>
 
@@ -72,7 +78,10 @@ An AI-powered application designed to recognize **Pakistani banknotes** and prov
 
 <p>
   <a href="https://github.com/Ibrahimshah0900/currency-assistant">
-    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Currency Assistant Repository" />
+    <img
+      src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="Currency Assistant Repository"
+    />
   </a>
 </p>
 
@@ -98,13 +107,21 @@ An AI-powered resume analysis and optimization platform designed to help users e
 `Python` `Streamlit` `spaCy` `scikit-learn` `Sentence Transformers` `OpenCV` `OCR` `SQLite`
 
 <p>
-  <a href="https://github.com/Ibrahimshah0900/AI-Resume-Studio">
-    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="AI Resume Studio Repository" />
-  </a>
 
-  <a href="https://ibrahimshah0900-ai-resume-studio.streamlit.app">
-    <img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo" />
-  </a>
+<a href="https://github.com/Ibrahimshah0900/AI-Resume-Studio">
+  <img
+    src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="AI Resume Studio Repository"
+  />
+</a>
+
+<a href="https://ibrahimshah0900-ai-resume-studio.streamlit.app">
+  <img
+    src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"
+    alt="AI Resume Studio Live Demo"
+  />
+</a>
+
 </p>
 
 ---
@@ -137,7 +154,7 @@ The project is being developed as a production-oriented software system involvin
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=python,pytorch,fastapi,react,ts,js,git,github,vscode,androidstudio&perline=10"
-    alt="Technology Icons"
+    alt="Technology Stack"
   />
 </p>
 
@@ -163,14 +180,127 @@ The project is being developed as a production-oriented software system involvin
 
 ---
 
-📊 GitHub Analytics
+# 📊 GitHub Snapshot
 
-GitHub Stats
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ibrahimshah0900&theme=github_dark"
+    width="100%"
+    alt="GitHub Profile Summary"
+  />
+</p>
 
-Top Languages
+<p align="center">
 
-GitHub Streak
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ibrahimshah0900&theme=github_dark"
+  width="48%"
+  alt="Repositories Per Language"
+/>
 
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ibrahimshah0900&theme=github_dark"
+  width="48%"
+  alt="Most Commit Language"
+/>
+
+</p>
+
+<p align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ibrahimshah0900&theme=github_dark"
+  width="48%"
+  alt="GitHub Statistics"
+/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ibrahimshah0900&theme=github_dark&utcOffset=5"
+  width="48%"
+  alt="Productive Time"
+/>
+
+</p>
+
+---
+
+# 🎯 Currently
+
+```text
+🛡️ Building     → Pur-Aman Pakistan
+👁️ Focusing     → Computer Vision & Applied AI
+🤗 Learning     → Hugging Face NLP
+🐍 Developing   → Python & AI Systems
+🚀 Goal         → Turn AI skills into production-ready products
+```
+
+---
+
+# 🎓 Education
+
+### BS Artificial Intelligence
+
+Currently in the **7th Semester**
+
+---
+
+# 🏆 Certifications
+
+<p>
+  <img
+    src="https://img.shields.io/badge/Kaggle-Intermediate_Machine_Learning-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"
+    alt="Kaggle Intermediate Machine Learning"
+  />
+</p>
+
+---
+
+# 🤝 Open To
+
+- 💼 AI / ML Internships
+- 👁️ Computer Vision Opportunities
+- 🤖 Junior AI / ML Roles
+- 🐍 Python Development
+- ⚡ AI Application Development
+- 🌍 Remote Opportunities
+- 🧑‍💻 Freelance AI / Python Projects
+- 🔬 Research & Technical Collaborations
+
+---
+
+# 📫 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/Ibrahimshah0900">
+  <img
+    src="https://img.shields.io/badge/GitHub-Connect-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</a>
+
+</p>
+
+---
+
+<!-- =========================================================
+                    BOTTOM ANIMATION
+========================================================== -->
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1000&center=true&vCenter=true&width=680&lines=Building+practical+AI+systems.;Turning+machine+learning+into+usable+products.;Always+learning.+Always+building."
+    alt="Typing Animation"
+  />
+</p>
+
+<p align="center">
+  <b>⚡ Learn → Build → Deploy → Improve</b>
+</p>
+
+<!-- =========================================================
+                         FOOTER
+========================================================== -->
 
 <p align="center">
   <img
