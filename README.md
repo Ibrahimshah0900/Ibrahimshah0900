@@ -163,110 +163,14 @@ The project is being developed as a production-oriented software system involvin
 
 ---
 
-# 📊 GitHub Analytics
+📊 GitHub Analytics
 
-<p align="center">
+GitHub Stats
 
-<img
-  width="48%"
-  src="https://github-readme-stats.vercel.app/api?username=Ibrahimshah0900&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
-  alt="GitHub Stats"
-/>
+Top Languages
 
-<img
-  width="48%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahimshah0900&layout=compact&hide_border=true&theme=github_dark"
-  alt="Top Languages"
-/>
+GitHub Streak
 
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Ibrahimshah0900&theme=github-dark-blue&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
----
-
-# 🎯 Currently
-
-```text
-🛡️ Building     → Pur-Aman Pakistan
-👁️ Focusing     → Computer Vision & Applied AI
-🤗 Learning     → Hugging Face NLP
-🐍 Developing   → Python & AI Systems
-🚀 Goal         → Turn AI skills into production-ready products
-```
-
----
-
-# 🎓 Education
-
-### BS Artificial Intelligence
-
-Currently in the **7th Semester**
-
----
-
-# 🏆 Certifications
-
-<p>
-  <img
-    src="https://img.shields.io/badge/Kaggle-Intermediate_Machine_Learning-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"
-    alt="Kaggle Intermediate Machine Learning"
-  />
-</p>
-
----
-
-# 🤝 Open To
-
-- 💼 AI / ML Internships
-- 👁️ Computer Vision Opportunities
-- 🤖 Junior AI / ML Roles
-- 🐍 Python Development
-- ⚡ AI Application Development
-- 🌍 Remote Opportunities
-- 🧑‍💻 Freelance AI / Python Projects
-- 🔬 Research & Technical Collaborations
-
----
-
-# 📫 Let's Connect
-
-<p align="center">
-
-<a href="https://github.com/Ibrahimshah0900">
-  <img
-    src="https://img.shields.io/badge/GitHub-Connect-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
-</a>
-
-</p>
-
----
-
-<!-- =========================================================
-                    BOTTOM ANIMATION
-========================================================== -->
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1000&center=true&vCenter=true&width=680&lines=Building+practical+AI+systems.;Turning+machine+learning+into+usable+products.;Always+learning.+Always+building."
-    alt="Bottom Typing Animation"
-  />
-</p>
-
-<p align="center">
-  <b>⚡ Learn → Build → Deploy → Improve</b>
-</p>
-
-<!-- =========================================================
-                         FOOTER
-========================================================== -->
 
 <p align="center">
   <img
