@@ -1,70 +1,173 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Muhammad%20Ibrahim%20Hashmi&fontSize=35&fontColor=000000&animation=fadeIn)
+<!-- ===================== HEADER ===================== -->
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Muhammad%20Ibrahim%20Hashmi&fontAlign=50&fontAlignY=35&desc=Applied%20AI%20%7C%20Computer%20Vision%20%7C%20Python%20Developer&descAlign=50&descAlignY=55&animation=fadeIn" width="100%" />
+</p>
 
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&center=true&vCenter=true&width=700&lines=Building+Practical+AI+Systems+%F0%9F%A4%96;Computer+Vision+%7C+Machine+Learning+%7C+Python;Turning+AI+Models+Into+Usable+Products;Learning.+Building.+Deploying."
+    alt="Typing SVG"
+  />
+</p>
 
-### AI Student | Machine Learning & Computer Vision | Python Developer
+<p align="center">
+  <a href="https://github.com/Ibrahimshah0900">
+    <img src="https://img.shields.io/badge/GitHub-Ibrahimshah0900-181717?style=for-the-badge&logo=github" />
+  </a>
 
-📍 Islamabad, Pakistan  
-📧 Ibrahimhashmi558@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/ibrahim-ai-dev) • [Linktree](https://linktr.ee/ibrahimhashmi558) • [CV](https://drive.google.com/file/d/1hfesWGm-MkzNgsyST2irYXk4aDQQxz2o/view?usp=sharing)
-
----
-
-## 👨‍💻 About Me
-
-I’m a 7th-semester BS Artificial Intelligence student at Abasyn University Islamabad.  
-I build real-world AI tools and love working with Machine Learning, Computer Vision, and Automation.
-
-Currently:
-- 🧠 Building my Final Year Project – **Pur-Aman Pakistan**
-- 🛠 Developing **AI Resume Builder**
-- 📚 Learning and improving daily
-
----
-
-✅ Kaggle – Intermediate Machine Learning Certificate
-
-## 🛠 Tech Stack
-
-**Languages:**  
-Python • C++ • Java • JavaScript
-
-**AI/ML:**  
-TensorFlow • Scikit-learn • OpenCV • YOLO • Pandas • NumPy
-
-**Tools & Platforms:**  
-Git • GitHub • Google Colab • VS Code • Streamlit
-
-**Other:**  
-MySQL • SQLite • Node.js • React Native
+  <img src="https://komarev.com/ghpvc/?username=Ibrahimshah0900&style=for-the-badge&label=PROFILE+VIEWS" />
+</p>
 
 ---
 
-## 📌 Featured Projects
+# 👨‍💻 About Me
 
-### 🔹 AI Resume Builder  
-Free AI-powered resume builder with 5 templates, resume scoring, and PDF download.  
-`Python` `Streamlit` `Scikit-learn`
+I'm a **BS Artificial Intelligence student** focused on building practical AI systems, particularly in:
 
-### 🔹 Pur-Aman Pakistan (FYP)  
-AI-powered public safety and suspicious activity detection system.  
-`YOLO` `Computer Vision` `NLP` `React Native`
+- 🧠 Machine Learning
+- 👁️ Computer Vision
+- 🐍 Python Development
+- ⚡ AI-powered Applications
+- 🔌 Model & API Integration
+- 📱 AI-enabled Mobile Applications
 
-### 🔹 YOLO Performance Evaluation  
-Evaluated YOLOv8 on COCO dataset under different real-world conditions.  
-`YOLO` `OpenCV` `Matplotlib`
+I enjoy taking AI beyond notebooks — turning models into **APIs, mobile applications, deployed products, and real-world software systems**.
 
-### 🔹 Movie Recommendation System  
-Content-based recommender using TF-IDF and Cosine Similarity.  
-`Python` `Scikit-learn` `Streamlit`
-
-
-## 🔗 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ibrahim-ai-dev)  
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:Ibrahimhashmi558@gmail.com)  
-[![Linktree](https://img.shields.io/badge/Linktree-green?style=for-the-badge&logo=linktree)](https://linktr.ee/ibrahimhashmi558)
+> **Current focus:** Applied AI + Computer Vision + production-oriented AI development.
 
 ---
 
-⭐ *Building every day. Learning every day. Growing every day.*
+# 🚀 Featured Projects
+
+## 🇵🇰 Pakistani Currency Assistant
+
+AI-powered Android application designed to recognize Pakistani banknotes and improve accessibility.
+
+### ✨ Highlights
+
+- 🧠 Pakistani banknote recognition using **RT-DETR**
+- 📷 Camera and image-upload recognition
+- 🔊 English & Urdu voice feedback
+- 📳 Vibration feedback
+- 🤲 Hands-free scanning
+- 📱 Android application using Capacitor
+- ☁️ Remote AI inference through ModelScope
+- ⚡ FastAPI inference backend
+
+### 🛠 Stack
+
+`Python` `PyTorch` `Ultralytics` `OpenCV` `RT-DETR` `FastAPI` `React` `TypeScript` `Capacitor` `Android`
+
+🔗 **Repository:**  
+https://github.com/Ibrahimshah0900/currency-assistant
+
+---
+
+## 📄 AI Resume Studio
+
+AI-powered resume analysis and optimization platform.
+
+### ✨ Highlights
+
+- 📊 ATS-style resume analysis
+- 🎯 Resume ↔ Job matching
+- ✍️ Resume improvement recommendations
+- 📑 PDF & DOCX generation
+- 👁️ OCR and resume parsing
+- 🧠 NLP & semantic similarity
+- 💾 Resume management
+- ☁️ Streamlit deployment
+
+### 🛠 Stack
+
+`Python` `Streamlit` `NLP` `spaCy` `scikit-learn` `Sentence Transformers` `OpenCV` `OCR` `SQLite`
+
+🔗 **Repository:**  
+https://github.com/Ibrahimshah0900/AI-Resume-Studio
+
+🌐 **Live Application:**  
+https://ibrahimshah0900-ai-resume-studio.streamlit.app
+
+---
+
+## 🛡️ Pur-Aman Pakistan
+
+### 🎓 Final Year Project — In Development
+
+Currently developing an AI-powered safety application as my university Final Year Project.
+
+The project is being developed as a production-oriented application involving:
+
+- 📱 Android application
+- ⚡ Backend APIs
+- 🗄️ Database architecture
+- 🤖 AI/ML capabilities
+- 🔐 Structured backend development
+
+### Current Technologies
+
+`Python` `FastAPI` `SQLAlchemy` `SQLite` `Alembic` `AI/ML`
+
+> 🚧 Development currently in progress.
+
+---
+
+# 🧰 Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,react,ts,js,git,github,vscode,androidstudio&perline=10" />
+</p>
+
+### 🤖 AI / ML
+
+`PyTorch` • `Ultralytics` • `scikit-learn` • `OpenCV` • `spaCy` • `Sentence Transformers`
+
+### ⚙️ Backend
+
+`FastAPI` • `SQLAlchemy` • `REST APIs` • `SQLite`
+
+### 🌐 Frontend / Mobile
+
+`React` • `TypeScript` • `JavaScript` • `Capacitor` • `Android`
+
+### 🔧 Development
+
+`Git` • `GitHub` • `Google Colab` • `VS Code` • `Android Studio`
+
+### ☁️ Deployment
+
+`Streamlit Cloud` • `ModelScope` • `GitHub Releases`
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=Ibrahimshah0900&show_icons=true&hide_border=true&theme=github_dark"
+  />
+
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahimshah0900&layout=compact&hide_border=true&theme=github_dark"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Ibrahimshah0900&theme=github-dark-blue&hide_border=true"
+  />
+</p>
+
+---
+
+# 🎯 Currently
+
+```text
+🛡️ Building      → Pur-Aman Pakistan
+👁️ Focusing      → Computer Vision & Applied AI
+🤗 Learning      → Hugging Face NLP
+🐍 Developing    → Python & AI Systems
+🚀 Goal          → Turn AI skills into production-ready products
