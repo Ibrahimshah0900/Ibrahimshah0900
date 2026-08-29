@@ -268,25 +268,80 @@ The project is being developed as a production-oriented software system involvin
 👁️ Focusing     → Applied AI + Computer Vision + Production-Oriented Systems
 ⚡ Developing   → Python, FastAPI, React & AI-backed Applications
 🚀 Goal         → Build AI Products That Solve Real Operational Problems
+```
 
-🎓 Education
-BS Artificial Intelligence
+---
 
-Currently in the 7th Semester
+# 🎓 Education
 
-🏆 Certifications
-<p> <img src="https://img.shields.io/badge/Kaggle-Intermediate_Machine_Learning-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Intermediate Machine Learning" /> </p>
-🤝 Open To
-💼 AI / ML Internships
-👁️ Computer Vision Opportunities
-🤖 Junior AI / ML Roles
-🐍 Python Development
-⚡ AI Application Development
-🌍 Remote Opportunities
-🧑‍💻 Freelance AI / Python Projects
-🔬 Research & Technical Collaborations
-📫 Let's Connect
-<p align="center"> <a href="https://github.com/Ibrahimshah0900"> <img src="https://img.shields.io/badge/GitHub-Connect-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> </p>
-<!-- ========================================================= BOTTOM ANIMATION ========================================================== --> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1000&center=true&vCenter=true&width=680&lines=Building+practical+AI+systems.;Turning+machine+learning+into+usable+products.;Always+learning.+Always+building." alt="Typing Animation" /> </p> <p align="center"> <b>⚡ Learn → Build → Deploy → Improve</b> </p> <!-- ========================================================= FOOTER ========================================================== --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer" width="100%" alt="Footer" /> </p> ```
+### BS Artificial Intelligence
 
-Replace everything and commit it with:
+Currently in the **7th Semester**
+
+---
+
+# 🏆 Certifications
+
+<p>
+  <img
+    src="https://img.shields.io/badge/Kaggle-Intermediate_Machine_Learning-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"
+    alt="Kaggle Intermediate Machine Learning"
+  />
+</p>
+
+---
+
+# 🤝 Open To
+
+- 💼 AI / ML Internships
+- 👁️ Computer Vision Opportunities
+- 🤖 Junior AI / ML Roles
+- 🐍 Python Development
+- ⚡ AI Application Development
+- 🌍 Remote Opportunities
+- 🧑‍💻 Freelance AI / Python Projects
+- 🔬 Research & Technical Collaborations
+
+---
+
+# 📫 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/Ibrahimshah0900">
+  <img
+    src="https://img.shields.io/badge/GitHub-Connect-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</a>
+
+</p>
+
+---
+
+<!-- =========================================================
+                    BOTTOM ANIMATION
+========================================================== -->
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1000&center=true&vCenter=true&width=680&lines=Building+practical+AI+systems.;Turning+machine+learning+into+usable+products.;Always+learning.+Always+building."
+    alt="Typing Animation"
+  />
+</p>
+
+<p align="center">
+  <b>⚡ Learn → Build → Deploy → Improve</b>
+</p>
+
+<!-- =========================================================
+                         FOOTER
+========================================================== -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"
+    width="100%"
+    alt="Footer"
+  />
+</p>
