@@ -126,6 +126,42 @@ An AI-powered resume analysis and optimization platform designed to help users e
 
 ---
 
+## 🗓️ UniTime-AI
+
+### 🚧 Active Development
+
+A full-stack university timetable and clash-resolution system being developed to help university coordinators manage schedules, identify conflicts, and resolve timetable clashes more effectively.
+
+### ✨ Current Capabilities
+
+- 🎓 Student, faculty, coordinator, and admin workflows
+- 📅 Timetable import and management
+- ⚠️ Clash detection and analysis
+- 🧠 Resolution candidate generation
+- 🔐 Role-based access control
+- 👨‍🏫 Faculty assignment management
+- 🔔 Notifications and reminders
+- 📊 Coordinator and administrative dashboards
+- ⚡ FastAPI backend
+- ⚛️ React + TypeScript frontend
+
+### 🛠 Technology Stack
+
+`Python` `FastAPI` `React` `TypeScript` `Alembic` `SQLite`
+
+> 🚧 **Status:** Under active development. Frontend completion, security hardening, deployment, and Android packaging are still in progress.
+
+<p>
+  <a href="https://github.com/Ibrahimshah0900/UniTime-AI">
+    <img
+      src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="UniTime-AI Repository"
+    />
+  </a>
+</p>
+
+---
+
 ## 🛡️ Pur-Aman Pakistan
 
 ### 🎓 Final Year Project — In Development
@@ -227,85 +263,30 @@ The project is being developed as a production-oriented software system involvin
 # 🎯 Currently
 
 ```text
-🛡️ Building     → Pur-Aman Pakistan
-👁️ Focusing     → Computer Vision & Applied AI
-🤗 Learning     → Hugging Face NLP
-🐍 Developing   → Python & AI Systems
-🚀 Goal         → Turn AI skills into production-ready products
-```
+🗓️ Building     → UniTime-AI — University Timetable & Clash Resolution
+🛡️ FYP          → Pur-Aman Pakistan
+👁️ Focusing     → Applied AI + Computer Vision + Production-Oriented Systems
+⚡ Developing   → Python, FastAPI, React & AI-backed Applications
+🚀 Goal         → Build AI Products That Solve Real Operational Problems
 
----
+🎓 Education
+BS Artificial Intelligence
 
-# 🎓 Education
+Currently in the 7th Semester
 
-### BS Artificial Intelligence
+🏆 Certifications
+<p> <img src="https://img.shields.io/badge/Kaggle-Intermediate_Machine_Learning-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Intermediate Machine Learning" /> </p>
+🤝 Open To
+💼 AI / ML Internships
+👁️ Computer Vision Opportunities
+🤖 Junior AI / ML Roles
+🐍 Python Development
+⚡ AI Application Development
+🌍 Remote Opportunities
+🧑‍💻 Freelance AI / Python Projects
+🔬 Research & Technical Collaborations
+📫 Let's Connect
+<p align="center"> <a href="https://github.com/Ibrahimshah0900"> <img src="https://img.shields.io/badge/GitHub-Connect-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> </p>
+<!-- ========================================================= BOTTOM ANIMATION ========================================================== --> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1000&center=true&vCenter=true&width=680&lines=Building+practical+AI+systems.;Turning+machine+learning+into+usable+products.;Always+learning.+Always+building." alt="Typing Animation" /> </p> <p align="center"> <b>⚡ Learn → Build → Deploy → Improve</b> </p> <!-- ========================================================= FOOTER ========================================================== --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer" width="100%" alt="Footer" /> </p> ```
 
-Currently in the **7th Semester**
-
----
-
-# 🏆 Certifications
-
-<p>
-  <img
-    src="https://img.shields.io/badge/Kaggle-Intermediate_Machine_Learning-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"
-    alt="Kaggle Intermediate Machine Learning"
-  />
-</p>
-
----
-
-# 🤝 Open To
-
-- 💼 AI / ML Internships
-- 👁️ Computer Vision Opportunities
-- 🤖 Junior AI / ML Roles
-- 🐍 Python Development
-- ⚡ AI Application Development
-- 🌍 Remote Opportunities
-- 🧑‍💻 Freelance AI / Python Projects
-- 🔬 Research & Technical Collaborations
-
----
-
-# 📫 Let's Connect
-
-<p align="center">
-
-<a href="https://github.com/Ibrahimshah0900">
-  <img
-    src="https://img.shields.io/badge/GitHub-Connect-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
-</a>
-
-</p>
-
----
-
-<!-- =========================================================
-                    BOTTOM ANIMATION
-========================================================== -->
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1000&center=true&vCenter=true&width=680&lines=Building+practical+AI+systems.;Turning+machine+learning+into+usable+products.;Always+learning.+Always+building."
-    alt="Typing Animation"
-  />
-</p>
-
-<p align="center">
-  <b>⚡ Learn → Build → Deploy → Improve</b>
-</p>
-
-<!-- =========================================================
-                         FOOTER
-========================================================== -->
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"
-    width="100%"
-    alt="Footer"
-  />
-</p>
+Replace everything and commit it with:
