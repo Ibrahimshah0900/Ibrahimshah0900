@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Muhammad%20Ibrahim%20Hashmi&fontSize=34&fontAlign=50&fontAlignY=35&desc=Applied%20AI%20%7C%20Computer%20Vision%20%7C%20Python%20Developer&descSize=16&descAlign=50&descAlignY=58&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Muhammad%20Ibrahim%20Hashmi&fontSize=34&fontAlign=50&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Computer%20Vision%20%7C%20Applied%20AI&descSize=16&descAlign=50&descAlignY=58&animation=fadeIn"
     width="100%"
     alt="Muhammad Ibrahim Hashmi"
   />
@@ -41,21 +41,77 @@ I'm a **BS Artificial Intelligence student** focused on building practical AI sy
 
 My main areas of interest are:
 
-- 👁️ **Computer Vision**
 - 🧠 **Machine Learning**
-- 🐍 **Python Development**
+- 👁️ **Computer Vision**
 - ⚡ **Applied Artificial Intelligence**
+- 🐍 **Python**
 - 🔌 **AI Model & API Integration**
-- 📱 **AI-powered Applications**
-- 🚀 **Model Deployment**
+- 🧩 **Production-Oriented AI Systems**
+- 🚀 **Model Deployment & Delivery**
 
-I enjoy taking AI beyond notebooks and experiments — building **APIs, mobile applications, deployed systems, and practical AI products**.
+I enjoy taking AI beyond notebooks and experiments — building **end-to-end AI systems, APIs, integrations, and practical AI products**.
 
-> 🎯 **Current Focus:** Applied AI + Computer Vision + production-oriented AI development.
+> 🎯 **Current Focus:** AI/ML Engineering + Computer Vision + production-oriented Applied AI.
 
 ---
 
 # 🚀 Featured Projects
+
+## 🗓️ UniTime-AI
+
+### ✅ Completed — Released as v0.1.1
+
+An **AI-assisted university timetable and clash-resolution system** designed to help students, faculty, coordinators, and administrators manage scheduling conflicts safely and efficiently.
+
+The AI architecture uses a **CatBoost learning-to-rank model** to prioritize already-eligible timetable-resolution candidates.
+
+Deterministic safety rules remain authoritative for room, faculty, section, enrollment-backed student conflicts, and other hard scheduling constraints.
+
+The ML model cannot override hard constraints, and the application falls back to deterministic ranking if the model is unavailable.
+
+### ✨ Highlights
+
+- 🧠 CatBoost `research-v1` ranking model
+- 🛡️ Deterministic safety-gated AI workflow
+- ⚠️ Clash detection and resolution candidate generation
+- 🎓 Student, faculty, coordinator, and admin workflows
+- 🔐 JWT authentication and role-based access control
+- 🔒 Argon2 password hashing
+- 📅 CSV/XLSX timetable import
+- ↩️ Controlled timetable changes with audit history and rollback
+- 🗄️ SQLAlchemy + Alembic
+- 🐘 PostgreSQL support
+- 🧪 Pytest, Vitest, Playwright, and PostgreSQL smoke testing
+- ⚙️ GitHub Actions CI
+- 🐳 Docker / Docker Compose support
+- 📱 Capacitor Android client
+- 📚 AI evaluation, API contracts, documentation, and release artifacts
+
+### 🛠 Technology Stack
+
+`Python` `FastAPI` `CatBoost` `SQLAlchemy` `Alembic` `PostgreSQL` `React` `TypeScript` `Capacitor` `Docker` `GitHub Actions`
+
+> ✅ **Status:** Completed and released on GitHub. Designed for reproducible local evaluation and real timetable import. A continuously hosted cloud backend is not required.
+
+<p>
+
+<a href="https://github.com/Ibrahimshah0900/UniTime-AI">
+  <img
+    src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="UniTime-AI Repository"
+  />
+</a>
+
+<a href="https://github.com/Ibrahimshah0900/UniTime-AI/releases/latest">
+  <img
+    src="https://img.shields.io/badge/Latest_Release-v0.1.1-2ea44f?style=for-the-badge&logo=github&logoColor=white"
+    alt="UniTime-AI Latest Release"
+  />
+</a>
+
+</p>
+
+---
 
 ## 🇵🇰 Pakistani Currency Assistant
 
@@ -126,55 +182,19 @@ An AI-powered resume analysis and optimization platform designed to help users e
 
 ---
 
-## 🗓️ UniTime-AI
-
-### 🚧 Active Development
-
-A full-stack university timetable and clash-resolution system being developed to help university coordinators manage schedules, identify conflicts, and resolve timetable clashes more effectively.
-
-### ✨ Current Capabilities
-
-- 🎓 Student, faculty, coordinator, and admin workflows
-- 📅 Timetable import and management
-- ⚠️ Clash detection and analysis
-- 🧠 Resolution candidate generation
-- 🔐 Role-based access control
-- 👨‍🏫 Faculty assignment management
-- 🔔 Notifications and reminders
-- 📊 Coordinator and administrative dashboards
-- ⚡ FastAPI backend
-- ⚛️ React + TypeScript frontend
-
-### 🛠 Technology Stack
-
-`Python` `FastAPI` `React` `TypeScript` `Alembic` `SQLite`
-
-> 🚧 **Status:** Under active development. Frontend completion, security hardening, deployment, and Android packaging are still in progress.
-
-<p>
-  <a href="https://github.com/Ibrahimshah0900/UniTime-AI">
-    <img
-      src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="UniTime-AI Repository"
-    />
-  </a>
-</p>
-
----
-
 ## 🛡️ Pur-Aman Pakistan
 
 ### 🎓 Final Year Project — In Development
 
 Currently developing **Pur-Aman Pakistan**, an AI-powered safety application as my university Final Year Project.
 
-The project is being developed as a production-oriented software system involving:
+The project is being developed as a production-oriented AI system involving:
 
-- 📱 Mobile application
+- 🤖 AI / ML capabilities
 - ⚡ Backend APIs
 - 🗄️ Database architecture
-- 🤖 AI / ML capabilities
 - 🔐 Structured backend development
+- 📱 Application integration
 - 🚀 Deployment-oriented architecture
 
 ### 🛠 Current Technologies
@@ -196,21 +216,25 @@ The project is being developed as a production-oriented software system involvin
 
 ### 🤖 AI / Machine Learning
 
-`PyTorch` • `Ultralytics` • `scikit-learn` • `OpenCV` • `spaCy` • `Sentence Transformers`
+`PyTorch` • `Ultralytics` • `scikit-learn` • `OpenCV` • `spaCy` • `Sentence Transformers` • `CatBoost`
 
-### ⚙️ Backend Development
+### 👁️ Computer Vision
 
-`FastAPI` • `SQLAlchemy` • `REST APIs` • `SQLite`
+`OpenCV` • `RT-DETR` • `YOLO` • `PyTorch`
 
-### 🌐 Frontend & Mobile
+### ⚙️ AI Systems & Backend
+
+`FastAPI` • `SQLAlchemy` • `REST APIs` • `SQLite` • `PostgreSQL` • `Alembic`
+
+### 🧩 Product Delivery
 
 `React` • `TypeScript` • `JavaScript` • `Capacitor` • `Android`
 
-### 🔧 Development Tools
+### 🔧 Development & Quality
 
-`Git` • `GitHub` • `Google Colab` • `VS Code` • `Android Studio`
+`Git` • `GitHub` • `Pytest` • `GitHub Actions` • `Docker` • `VS Code` • `Android Studio`
 
-### ☁️ Deployment
+### ☁️ Deployment / Distribution
 
 `Streamlit Cloud` • `ModelScope` • `GitHub Releases`
 
@@ -263,85 +287,9 @@ The project is being developed as a production-oriented software system involvin
 # 🎯 Currently
 
 ```text
-🗓️ Building     → UniTime-AI — University Timetable & Clash Resolution
+✅ Completed    → UniTime-AI — AI-Assisted Timetable & Clash Resolution
 🛡️ FYP          → Pur-Aman Pakistan
-👁️ Focusing     → Applied AI + Computer Vision + Production-Oriented Systems
-⚡ Developing   → Python, FastAPI, React & AI-backed Applications
+👁️ Focusing     → AI/ML Engineering + Computer Vision + Applied AI
+⚡ Developing   → Production AI Systems, FastAPI & Model Integration
 🚀 Goal         → Build AI Products That Solve Real Operational Problems
-```
 
----
-
-# 🎓 Education
-
-### BS Artificial Intelligence
-
-Currently in the **7th Semester**
-
----
-
-# 🏆 Certifications
-
-<p>
-  <img
-    src="https://img.shields.io/badge/Kaggle-Intermediate_Machine_Learning-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"
-    alt="Kaggle Intermediate Machine Learning"
-  />
-</p>
-
----
-
-# 🤝 Open To
-
-- 💼 AI / ML Internships
-- 👁️ Computer Vision Opportunities
-- 🤖 Junior AI / ML Roles
-- 🐍 Python Development
-- ⚡ AI Application Development
-- 🌍 Remote Opportunities
-- 🧑‍💻 Freelance AI / Python Projects
-- 🔬 Research & Technical Collaborations
-
----
-
-# 📫 Let's Connect
-
-<p align="center">
-
-<a href="https://github.com/Ibrahimshah0900">
-  <img
-    src="https://img.shields.io/badge/GitHub-Connect-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
-</a>
-
-</p>
-
----
-
-<!-- =========================================================
-                    BOTTOM ANIMATION
-========================================================== -->
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1000&center=true&vCenter=true&width=680&lines=Building+practical+AI+systems.;Turning+machine+learning+into+usable+products.;Always+learning.+Always+building."
-    alt="Typing Animation"
-  />
-</p>
-
-<p align="center">
-  <b>⚡ Learn → Build → Deploy → Improve</b>
-</p>
-
-<!-- =========================================================
-                         FOOTER
-========================================================== -->
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"
-    width="100%"
-    alt="Footer"
-  />
-</p>
