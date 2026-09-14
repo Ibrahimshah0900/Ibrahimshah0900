@@ -50,33 +50,27 @@ I enjoy taking AI beyond notebooks — from messy real-world data and model expe
 
 ## 🔎 AI-Powered Business Lead Intelligence Engine
 
-### 🧪 Robionix Internship Project — Private Data, Public Sanitized Code
+### 🧪 Robionix Internship Project — Private Data & Private Repository
 
-An end-to-end natural-language business lead retrieval system built over **10,278,605 genuine U.S. business/contact records**.
+An end-to-end natural-language business intelligence and retrieval system built over a **large private dataset**.
 
 The project combines large-scale data engineering, Qwen3 fine-tuning, semantic category resolution, deterministic guardrails, family-aware DuckDB retrieval, and private Hugging Face deployment.
 
 ### ✨ Highlights
 
-- Consolidated **2,196 heterogeneous CSV/XLSX and special-format files** into a validated **10.28M-record, 57-field master dataset** across **85 Parquet parts**
+- Consolidated heterogeneous CSV/XLSX and special-format sources into a validated Parquet-based master dataset with provenance and data-quality checks
 - Fine-tuned **Qwen3-4B using 4-bit LoRA/QLoRA** for structured natural-language query interpretation
-- Built strict **JSON/schema validation** instead of allowing the model to generate SQL or lead records directly
+- Built strict **JSON/schema validation** instead of allowing the model to generate SQL or business records directly
 - Added **MiniLM semantic category resolution / RAG-style grounding**
 - Implemented deterministic **unsupported-constraint guardrails** and family-aware retrieval
-- Built a **DuckDB/Parquet executor** that returns genuine stored rows rather than fabricated contacts
+- Built a **DuckDB/Parquet executor** that returns grounded stored rows rather than model-generated records
 - Selected parser checkpoint achieved **93.75% semantic-exact accuracy on controlled validation**
 - Deployed privately using **Gradio + Hugging Face Spaces** with private data/model artifact separation
-- Maintained a sanitized public repository with tests, architecture, evaluation, deployment, and limitation docs
+- Maintained private project code with tests and architecture, evaluation, deployment, and limitation documentation
 
 ### 🛠 Technology Stack
 
 `Python` `PyTorch` `Qwen3-4B` `Transformers` `PEFT` `LoRA` `QLoRA` `bitsandbytes` `Sentence Transformers` `MiniLM` `Pandas` `PyArrow` `Parquet` `DuckDB` `Gradio` `Hugging Face`
-
-<p>
-<a href="https://github.com/Ibrahimshah0900/AI-Base-lead-retrieval-Engine">
-  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Business Lead Intelligence Engine Repository" />
-</a>
-</p>
 
 ---
 
