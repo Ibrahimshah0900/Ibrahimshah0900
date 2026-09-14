@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Muhammad%20Ibrahim%20Hashmi&fontSize=34&fontAlign=50&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Computer%20Vision%20%7C%20Applied%20AI&descSize=16&descAlign=50&descAlignY=58&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Muhammad%20Ibrahim%20Hashmi&fontSize=34&fontAlign=50&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Applied%20AI%20%7C%20Computer%20Vision%20%7C%20LLM%20Systems&descSize=16&descAlign=50&descAlignY=58&animation=fadeIn"
     width="100%"
     alt="Muhammad Ibrahim Hashmi"
   />
@@ -12,172 +12,148 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=900&center=true&vCenter=true&width=720&lines=Building+Practical+AI+Systems+%F0%9F%A4%96;Computer+Vision+%7C+Machine+Learning+%7C+Python;Turning+AI+Models+Into+Usable+Products;Learn.+Build.+Deploy.+Improve."
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=900&center=true&vCenter=true&width=820&lines=Building+Practical+AI+Systems+%F0%9F%A4%96;Computer+Vision+%7C+LLM+Systems+%7C+Machine+Learning;Data+%E2%86%92+Models+%E2%86%92+Retrieval+%E2%86%92+Deployment;Learn.+Build.+Evaluate.+Deploy.+Improve."
     alt="Typing Animation"
   />
 </p>
 
 <p align="center">
-
 <a href="https://github.com/Ibrahimshah0900">
-  <img
-    src="https://img.shields.io/badge/GitHub-Ibrahimshah0900-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
+  <img src="https://img.shields.io/badge/GitHub-Ibrahimshah0900-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-
-<img
-  src="https://komarev.com/ghpvc/?username=Ibrahimshah0900&style=for-the-badge&label=PROFILE+VIEWS"
-  alt="Profile Views"
-/>
-
+<img src="https://komarev.com/ghpvc/?username=Ibrahimshah0900&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-I'm a **BS Artificial Intelligence student** focused on building practical AI systems and turning machine learning models into usable software products.
+I'm a **final-year BS Artificial Intelligence student and AI/ML Engineer** focused on building practical, end-to-end AI systems.
 
-My main areas of interest are:
+My strongest current proof spans:
 
-- 🧠 **Machine Learning**
+- ⚡ **Applied AI / Machine Learning Engineering**
 - 👁️ **Computer Vision**
-- ⚡ **Applied Artificial Intelligence**
-- 🐍 **Python**
-- 🔌 **AI Model & API Integration**
-- 🧩 **Production-Oriented AI Systems**
-- 🚀 **Model Deployment & Delivery**
+- 🧠 **LLM fine-tuning and structured-output systems**
+- 🔎 **Semantic retrieval / RAG-style grounding**
+- 🧱 **Large-scale data preprocessing and retrieval engineering**
+- 🐍 **Python / PyTorch**
+- 🚀 **Model integration, evaluation and deployment**
 
-I enjoy taking AI beyond notebooks and experiments — building **end-to-end AI systems, APIs, integrations, and practical AI products**.
+I enjoy taking AI beyond notebooks — from messy real-world data and model experimentation to retrieval systems, APIs, validation, deployment, and usable products.
 
-> 🎯 **Current Focus:** AI/ML Engineering + Computer Vision + production-oriented Applied AI.
+> 🎯 **Current Focus:** AI/ML Engineering + Applied AI + Computer Vision + LLM Systems.
 
 ---
 
 # 🚀 Featured Projects
 
+## 🔎 AI-Powered Business Lead Intelligence Engine
+
+### 🧪 Robionix Internship Project — Private Data, Public Sanitized Code
+
+An end-to-end natural-language business lead retrieval system built over **10,278,605 genuine U.S. business/contact records**.
+
+The project combines large-scale data engineering, Qwen3 fine-tuning, semantic category resolution, deterministic guardrails, family-aware DuckDB retrieval, and private Hugging Face deployment.
+
+### ✨ Highlights
+
+- Consolidated **2,196 heterogeneous CSV/XLSX and special-format files** into a validated **10.28M-record, 57-field master dataset** across **85 Parquet parts**
+- Fine-tuned **Qwen3-4B using 4-bit LoRA/QLoRA** for structured natural-language query interpretation
+- Built strict **JSON/schema validation** instead of allowing the model to generate SQL or lead records directly
+- Added **MiniLM semantic category resolution / RAG-style grounding**
+- Implemented deterministic **unsupported-constraint guardrails** and family-aware retrieval
+- Built a **DuckDB/Parquet executor** that returns genuine stored rows rather than fabricated contacts
+- Selected parser checkpoint achieved **93.75% semantic-exact accuracy on controlled validation**
+- Deployed privately using **Gradio + Hugging Face Spaces** with private data/model artifact separation
+- Maintained a sanitized public repository with tests, architecture, evaluation, deployment, and limitation docs
+
+### 🛠 Technology Stack
+
+`Python` `PyTorch` `Qwen3-4B` `Transformers` `PEFT` `LoRA` `QLoRA` `bitsandbytes` `Sentence Transformers` `MiniLM` `Pandas` `PyArrow` `Parquet` `DuckDB` `Gradio` `Hugging Face`
+
+<p>
+<a href="https://github.com/Ibrahimshah0900/AI-Base-lead-retrieval-Engine">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Business Lead Intelligence Engine Repository" />
+</a>
+</p>
+
+---
+
 ## 🗓️ UniTime-AI
 
 ### ✅ Completed — Released as v0.1.1
 
-An **AI-assisted university timetable and clash-resolution system** designed to help students, faculty, coordinators, and administrators manage scheduling conflicts safely and efficiently.
-
-The AI architecture uses a **CatBoost learning-to-rank model** to prioritize already-eligible timetable-resolution candidates.
-
-Deterministic safety rules remain authoritative for room, faculty, section, enrollment-backed student conflicts, and other hard scheduling constraints.
-
-The ML model cannot override hard constraints, and the application falls back to deterministic ranking if the model is unavailable.
+An **AI-assisted university timetable and clash-resolution system** using deterministic safety checks and a **CatBoost learning-to-rank model** to prioritize already-eligible resolution candidates.
 
 ### ✨ Highlights
 
 - 🧠 CatBoost `research-v1` ranking model
 - 🛡️ Deterministic safety-gated AI workflow
 - ⚠️ Clash detection and resolution candidate generation
-- 🎓 Student, faculty, coordinator, and admin workflows
 - 🔐 JWT authentication and role-based access control
-- 🔒 Argon2 password hashing
 - 📅 CSV/XLSX timetable import
-- ↩️ Controlled timetable changes with audit history and rollback
-- 🗄️ SQLAlchemy + Alembic
-- 🐘 PostgreSQL support
-- 🧪 Pytest, Vitest, Playwright, and PostgreSQL smoke testing
+- 🗄️ SQLAlchemy + Alembic + PostgreSQL
+- 🧪 Pytest, Vitest, Playwright, PostgreSQL smoke testing
 - ⚙️ GitHub Actions CI
-- 🐳 Docker / Docker Compose support
+- 🐳 Docker / Docker Compose
 - 📱 Capacitor Android client
-- 📚 AI evaluation, API contracts, documentation, and release artifacts
 
 ### 🛠 Technology Stack
 
 `Python` `FastAPI` `CatBoost` `SQLAlchemy` `Alembic` `PostgreSQL` `React` `TypeScript` `Capacitor` `Docker` `GitHub Actions`
 
-> ✅ **Status:** Completed and released on GitHub. Designed for reproducible local evaluation and real timetable import. A continuously hosted cloud backend is not required.
-
 <p>
-
 <a href="https://github.com/Ibrahimshah0900/UniTime-AI">
-  <img
-    src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="UniTime-AI Repository"
-  />
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="UniTime-AI Repository" />
 </a>
-
 <a href="https://github.com/Ibrahimshah0900/UniTime-AI/releases/latest">
-  <img
-    src="https://img.shields.io/badge/Latest_Release-v0.1.1-2ea44f?style=for-the-badge&logo=github&logoColor=white"
-    alt="UniTime-AI Latest Release"
-  />
+  <img src="https://img.shields.io/badge/Latest_Release-v0.1.1-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="UniTime-AI Latest Release" />
 </a>
-
 </p>
 
 ---
 
 ## 🇵🇰 Pakistani Currency Assistant
 
-An AI-powered application designed to recognize **Pakistani banknotes** and provide accessible feedback to users.
+An AI-powered application for recognizing **Pakistani banknotes** with accessibility-oriented feedback.
 
 ### ✨ Highlights
 
-- 🧠 Pakistani banknote recognition using **RT-DETR**
+- 🧠 RT-DETR / PyTorch banknote recognition
 - 📷 Camera and image-upload recognition
 - 🔊 English & Urdu voice feedback
-- 🤲 Hands-free scanning
-- 📳 Vibration feedback
+- 📳 Haptic feedback
 - 📱 Android integration using Capacitor
 - ⚡ FastAPI inference backend
-- ☁️ Remote AI inference through ModelScope
 
 ### 🛠 Technology Stack
 
 `Python` `PyTorch` `Ultralytics` `OpenCV` `RT-DETR` `FastAPI` `React` `TypeScript` `Capacitor` `Android`
 
 <p>
-  <a href="https://github.com/Ibrahimshah0900/currency-assistant">
-    <img
-      src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="Currency Assistant Repository"
-    />
-  </a>
+<a href="https://github.com/Ibrahimshah0900/currency-assistant">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Currency Assistant Repository" />
+</a>
 </p>
 
 ---
 
 ## 📄 AI Resume Studio
 
-An AI-powered resume analysis and optimization platform designed to help users evaluate and improve resumes.
-
-### ✨ Highlights
-
-- 📊 ATS-style resume analysis
-- 🎯 Resume ↔ Job matching
-- ✍️ Resume improvement recommendations
-- 📑 PDF & DOCX generation
-- 👁️ OCR and resume parsing
-- 🧠 NLP and semantic similarity
-- 💾 Resume management
-- ☁️ Streamlit deployment
+An NLP/ML resume analysis and job-matching platform for ATS-style analysis, semantic matching, OCR/document processing, and PDF/DOCX export.
 
 ### 🛠 Technology Stack
 
 `Python` `Streamlit` `spaCy` `scikit-learn` `Sentence Transformers` `OpenCV` `OCR` `SQLite`
 
 <p>
-
 <a href="https://github.com/Ibrahimshah0900/AI-Resume-Studio">
-  <img
-    src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="AI Resume Studio Repository"
-  />
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="AI Resume Studio Repository" />
 </a>
-
 <a href="https://ibrahimshah0900-ai-resume-studio.streamlit.app">
-  <img
-    src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"
-    alt="AI Resume Studio Live Demo"
-  />
+  <img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="AI Resume Studio Live Demo" />
 </a>
-
 </p>
 
 ---
@@ -186,100 +162,49 @@ An AI-powered resume analysis and optimization platform designed to help users e
 
 ### 🎓 Final Year Project — In Development
 
-Currently developing **Pur-Aman Pakistan**, an AI-powered safety application as my university Final Year Project.
+Multimodal public-safety incident-reporting concept with planned text/image/audio/video evidence and human authority verification.
 
-The project is being developed as a production-oriented AI system involving:
-
-- 🤖 AI / ML capabilities
-- ⚡ Backend APIs
-- 🗄️ Database architecture
-- 🔐 Structured backend development
-- 📱 Application integration
-- 🚀 Deployment-oriented architecture
-
-### 🛠 Current Technologies
-
-`Python` `FastAPI` `SQLAlchemy` `SQLite` `Alembic` `AI/ML`
-
-> 🚧 **Status:** Currently under active development.
+> 🚧 **Status:** In progress.
 
 ---
 
-# 🧰 Tech Arsenal
+# 🧰 Core Technical Skills
 
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=python,pytorch,fastapi,react,ts,js,git,github,vscode,androidstudio&perline=10"
-    alt="Technology Stack"
-  />
-</p>
+### 🤖 Applied AI / Machine Learning
 
-### 🤖 AI / Machine Learning
+`Python` • `PyTorch` • `scikit-learn` • `CatBoost` • `Model Evaluation` • `Experiment Design`
 
-`PyTorch` • `Ultralytics` • `scikit-learn` • `OpenCV` • `spaCy` • `Sentence Transformers` • `CatBoost`
+### 🧠 LLM Systems
+
+`Qwen3-4B` • `Transformers` • `PEFT` • `LoRA` • `QLoRA` • `Structured Outputs` • `Semantic Embeddings` • `Sentence Transformers`
 
 ### 👁️ Computer Vision
 
 `OpenCV` • `RT-DETR` • `YOLO` • `PyTorch`
 
+### 🧱 Data / Retrieval Engineering
+
+`Pandas` • `NumPy` • `PyArrow` • `Parquet` • `DuckDB` • `CSV/XLSX Processing` • `Data Quality` • `Deduplication`
+
 ### ⚙️ AI Systems & Backend
 
-`FastAPI` • `SQLAlchemy` • `REST APIs` • `SQLite` • `PostgreSQL` • `Alembic`
+`FastAPI` • `SQLAlchemy` • `REST APIs` • `SQLite` • `PostgreSQL` • `Alembic` • `Gradio`
 
-### 🧩 Product Delivery
+### 🔧 Development & Delivery
 
-`React` • `TypeScript` • `JavaScript` • `Capacitor` • `Android`
-
-### 🔧 Development & Quality
-
-`Git` • `GitHub` • `Pytest` • `GitHub Actions` • `Docker` • `VS Code` • `Android Studio`
-
-### ☁️ Deployment / Distribution
-
-`Streamlit Cloud` • `ModelScope` • `GitHub Releases`
+`Git` • `GitHub` • `Pytest` • `GitHub Actions` • `Docker` • `Hugging Face Spaces` • `Streamlit Cloud`
 
 ---
 
 # 📊 GitHub Snapshot
 
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ibrahimshah0900&theme=github_dark"
-    width="100%"
-    alt="GitHub Profile Summary"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ibrahimshah0900&theme=github_dark" width="100%" alt="GitHub Profile Summary" />
 </p>
 
 <p align="center">
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ibrahimshah0900&theme=github_dark"
-  width="48%"
-  alt="Repositories Per Language"
-/>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ibrahimshah0900&theme=github_dark"
-  width="48%"
-  alt="Most Commit Language"
-/>
-
-</p>
-
-<p align="center">
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ibrahimshah0900&theme=github_dark"
-  width="48%"
-  alt="GitHub Statistics"
-/>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ibrahimshah0900&theme=github_dark&utcOffset=5"
-  width="48%"
-  alt="Productive Time"
-/>
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ibrahimshah0900&theme=github_dark" width="48%" alt="Repositories Per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ibrahimshah0900&theme=github_dark" width="48%" alt="Most Commit Language" />
 </p>
 
 ---
@@ -287,9 +212,10 @@ The project is being developed as a production-oriented AI system involving:
 # 🎯 Currently
 
 ```text
-✅ Completed    → UniTime-AI — AI-Assisted Timetable & Clash Resolution
-🛡️ FYP          → Pur-Aman Pakistan
-👁️ Focusing     → AI/ML Engineering + Computer Vision + Applied AI
-⚡ Developing   → Production AI Systems, FastAPI & Model Integration
-🚀 Goal         → Build AI Products That Solve Real Operational Problems
-
+💼 Internship    → Robionix Technologies — Applied AI / ML Engineering
+🔎 Flagship      → AI-Powered Business Lead Intelligence Engine
+👁️ Strong Proof  → Computer Vision + Applied AI
+🧠 Expanding     → LLM Systems + Semantic Retrieval + Data/AI Engineering
+🛡️ FYP           → Pur-Aman Pakistan
+🚀 Goal          → Build Reliable AI Systems That Solve Real Operational Problems
+```
