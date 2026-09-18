@@ -208,6 +208,14 @@ Multimodal public-safety incident-reporting concept with planned text/image/audi
 
 ---
 
+
+# 🏅 Credentials
+
+- **OpenCV University — OpenCV Bootcamp, Certificate of Excellence (100%)** · Sep 2026
+- **Kaggle — Intermediate Machine Learning** · Aug 2026
+
+---
+
 # 📊 GitHub Snapshot
 
 <p align="center">
