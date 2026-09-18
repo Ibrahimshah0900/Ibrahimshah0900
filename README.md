@@ -55,7 +55,7 @@ Current internship focused on practical AI/ML and computer vision work, includin
 
 ## 🧠 Internship — Soft Cel Technologies
 
-**9-week Internship · Completed 31 August 2026**
+**Internship · Completed 31 August 2026**
 
 - Practical exposure to **Artificial Intelligence and Machine Learning**
 - Hands-on exploration of **Large Language Models (LLMs)**
