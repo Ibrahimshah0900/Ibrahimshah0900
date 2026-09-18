@@ -46,6 +46,24 @@ I enjoy taking AI beyond notebooks — from messy real-world data and model expe
 
 ---
 
+
+# 💼 Experience
+
+## 🤖 Computer Vision / Machine Learning Intern — Robionix Technologies
+
+Current internship focused on practical AI/ML and computer vision work, including the private **AI-Powered Business Lead Intelligence Engine** featured below.
+
+## 🧠 Summer Internship — Soft Cel Technologies
+
+**9-week Summer Internship · Completed 31 August 2026**
+
+- Practical exposure to **Artificial Intelligence and Machine Learning**
+- Hands-on exploration of **Large Language Models (LLMs)**
+- Practical exposure to **Retrieval-Augmented Generation (RAG)**
+- Exploratory work across applied AI/ML use cases
+
+---
+
 # 🚀 Featured Projects
 
 ## 🔎 AI-Powered Business Lead Intelligence Engine
