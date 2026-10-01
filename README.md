@@ -211,6 +211,7 @@ Multimodal public-safety incident-reporting concept with planned text/image/audi
 
 # 🏅 Credentials
 
+- **OpenCV University — Vision Language Models (VLM) Bootcamp, Certificate of Excellence (100%)** · Sep 2026
 - **OpenCV University — OpenCV Bootcamp, Certificate of Excellence (100%)** · Sep 2026
 - **Kaggle — Intermediate Machine Learning** · Aug 2026
 
@@ -235,7 +236,8 @@ Multimodal public-safety incident-reporting concept with planned text/image/audi
 💼 Experience    → Robionix Technologies — CV / ML Internship Aug 2026 – Present
 🔎 Flagship      → AI-Powered Business Lead Intelligence Engine
 👁️ Strong Proof  → Computer Vision + Applied AI
-🧠 Expanding     → LLM Systems + Semantic Retrieval + Data/AI Engineering
+🧠 Expanding     → Vision-Language Models + LLM Systems + Semantic Retrieval
+🧪 Proof Build    → VLM Playground / Evaluation Mini-Project — In Progress
 🛡️ FYP           → Pur-Aman Pakistan
 🚀 Goal          → Build Reliable AI Systems That Solve Real Operational Problems
 ```
