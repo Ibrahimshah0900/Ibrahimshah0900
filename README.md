@@ -51,7 +51,7 @@ I enjoy taking AI beyond notebooks — from messy real-world data and model expe
 
 ## 🤖 Computer Vision / Machine Learning Intern — Robionix Technologies
 
-**Completed Sep 2026.** Practical AI/ML and computer vision work included the private **AI-Powered Business Lead Intelligence Engine** featured below.
+**Aug 2026 – Present.** Current practical AI/ML and computer vision work includes the private **AI-Powered Business Lead Intelligence Engine** featured below.
 
 ## 🧠 Internship — Soft Cel Technologies
 
@@ -232,7 +232,7 @@ Multimodal public-safety incident-reporting concept with planned text/image/audi
 # 🎯 Currently
 
 ```text
-💼 Experience    → Robionix Technologies — CV / ML Internship Completed Sep 2026
+💼 Experience    → Robionix Technologies — CV / ML Internship Aug 2026 – Present
 🔎 Flagship      → AI-Powered Business Lead Intelligence Engine
 👁️ Strong Proof  → Computer Vision + Applied AI
 🧠 Expanding     → LLM Systems + Semantic Retrieval + Data/AI Engineering
