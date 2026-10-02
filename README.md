@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Muhammad%20Ibrahim%20Hashmi&fontSize=34&fontAlign=50&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Applied%20AI%20%7C%20Computer%20Vision%20%7C%20LLM%20Systems&descSize=16&descAlign=50&descAlignY=58&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Muhammad%20Ibrahim%20Hashmi&fontSize=34&fontAlign=50&fontAlignY=35&desc=Junior%20Applied%20AI%20%2F%20AI%20Systems%20Engineer%20%7C%20Computer%20Vision%20%7C%20LLM%20%2F%20Retrieval&descSize=16&descAlign=50&descAlignY=58&animation=fadeIn"
     width="100%"
     alt="Muhammad Ibrahim Hashmi"
   />
@@ -28,7 +28,7 @@
 
 # 👨‍💻 About Me
 
-I'm a **final-year BS Artificial Intelligence student and AI/ML Engineer** focused on building practical, end-to-end AI systems.
+I'm a **final-year BS Artificial Intelligence student positioning for Junior Applied AI / AI Systems Engineering roles**, focused on building practical, end-to-end AI systems.
 
 My strongest current proof spans:
 
@@ -42,7 +42,7 @@ My strongest current proof spans:
 
 I enjoy taking AI beyond notebooks — from messy real-world data and model experimentation to retrieval systems, APIs, validation, deployment, and usable products.
 
-> 🎯 **Current Focus:** AI/ML Engineering + Applied AI + Computer Vision + LLM Systems.
+> 🎯 **Current Focus:** Junior Applied AI / AI Systems Engineering + Computer Vision + LLM/Retrieval Systems.
 
 ---
 
@@ -51,11 +51,11 @@ I enjoy taking AI beyond notebooks — from messy real-world data and model expe
 
 ## 🤖 Computer Vision / Machine Learning Intern — Robionix Technologies
 
-**Aug 2026 – Present.** Current practical AI/ML and computer vision work includes the private **AI-Powered Business Lead Intelligence Engine** featured below.
+**Aug 2026 – Sep 2026.** Completed practical AI/ML and computer vision internship work including the private **AI-Powered Business Lead Intelligence Engine** featured below.
 
 ## 🧠 Internship — Soft Cel Technologies
 
-**Summer Internship · Completed**
+**Completed Jul 2026**
 
 - Practical exposure to **Artificial Intelligence and Machine Learning**
 - Hands-on exploration of **Large Language Models (LLMs)**
@@ -233,11 +233,11 @@ Multimodal public-safety incident-reporting concept with planned text/image/audi
 # 🎯 Currently
 
 ```text
-💼 Experience    → Robionix Technologies — CV / ML Internship Aug 2026 – Present
+💼 Experience    → Robionix Technologies — CV / ML Internship Aug–Sep 2026
 🔎 Flagship      → AI-Powered Business Lead Intelligence Engine
-👁️ Strong Proof  → Computer Vision + Applied AI
+👁️ Strong Proof  → Computer Vision + LLM/Retrieval + Applied AI Systems
 🧠 Expanding     → Vision-Language Models + LLM Systems + Semantic Retrieval
 🧪 Proof Build    → VLM Playground / Evaluation Mini-Project — In Progress
 🛡️ FYP           → Pur-Aman Pakistan
-🚀 Goal          → Build Reliable AI Systems That Solve Real Operational Problems
+🚀 Target        → Junior Applied AI / AI Systems Engineer
 ```
