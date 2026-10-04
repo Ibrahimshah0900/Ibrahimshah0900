@@ -99,7 +99,7 @@ The project combines large-scale data engineering, Qwen3 fine-tuning, semantic c
 A conversational computer-vision and VLM system combining **Qwen2.5-VL**, **CLIP semantic retrieval**, multi-image reasoning, visual question answering, grounding/detection, short-video annotations, and an authenticated queued **FastAPI** GPU backend.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ibrahimshah0900/VisionFind/main/docs/visionfind-demo.svg" width="100%" alt="VisionFind working demo interface" />
+  <img src="https://raw.githubusercontent.com/Ibrahimshah0900/VisionFind/main/docs/visionfind-demo.webp" width="100%" alt="VisionFind working demo interface" />
 </p>
 
 ### ✨ Highlights
