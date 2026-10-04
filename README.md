@@ -92,6 +92,40 @@ The project combines large-scale data engineering, Qwen3 fine-tuning, semantic c
 
 ---
 
+## 👁️ VisionFind
+
+### ✅ Working Public Multimodal AI System
+
+A conversational computer-vision and VLM system combining **Qwen2.5-VL**, **CLIP semantic retrieval**, multi-image reasoning, visual question answering, grounding/detection, short-video annotations, and an authenticated queued **FastAPI** GPU backend.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ibrahimshah0900/VisionFind/main/docs/visionfind-demo.svg" width="100%" alt="VisionFind working demo interface" />
+</p>
+
+### ✨ Highlights
+
+- Semantic image search over uploaded collections using CLIP embeddings
+- Qwen2.5-VL visual question answering and multi-image comparison
+- Retrieval-then-visual-answer workflow with source image IDs attached by code
+- Approximate VLM grounding plus dedicated person, face, and object detection paths
+- Short-video processing with object boxes, counts, and timestamps
+- Authenticated FastAPI backend with queued single-worker inference and protected media endpoints
+- Local proxy/UI that keeps the backend token out of browser code
+- Recorded 20-image COCO128 retrieval baseline: **70% top-1 / 85% top-3**; documented as a small retrieval baseline, not a general accuracy claim
+- Regression coverage for routing, uploads, retrieval/cache, API behavior, detection, voice, and video paths
+
+### 🛠 Technology Stack
+
+`Python` `PyTorch` `Qwen2.5-VL` `CLIP` `Transformers` `Torchvision` `OpenCV` `FastAPI` `Gradio` `FFmpeg`
+
+<p>
+<a href="https://github.com/Ibrahimshah0900/VisionFind">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="VisionFind Repository" />
+</a>
+</p>
+
+---
+
 ## 🗓️ UniTime-AI
 
 ### ✅ Completed — Released as v0.1.1
@@ -188,11 +222,11 @@ Multimodal public-safety incident-reporting concept with planned text/image/audi
 
 ### 🧠 LLM Systems
 
-`Qwen3-4B` • `Transformers` • `PEFT` • `LoRA` • `QLoRA` • `Structured Outputs` • `Semantic Embeddings` • `Sentence Transformers`
+`Qwen3-4B` • `Qwen2.5-VL` • `CLIP` • `Transformers` • `PEFT` • `LoRA` • `QLoRA` • `Structured Outputs` • `Semantic Embeddings` • `Sentence Transformers`
 
 ### 👁️ Computer Vision
 
-`OpenCV` • `RT-DETR` • `YOLO` • `PyTorch`
+`OpenCV` • `Torchvision` • `RT-DETR` • `YOLO11` • `SAM2` • `PyTorch`
 
 ### 🧱 Data / Retrieval Engineering
 
@@ -236,8 +270,8 @@ Multimodal public-safety incident-reporting concept with planned text/image/audi
 💼 Experience    → Robionix Technologies — CV / ML Internship Aug–Sep 2026
 🔎 Flagship      → AI-Powered Business Lead Intelligence Engine
 👁️ Strong Proof  → Computer Vision + LLM/Retrieval + Applied AI Systems
-🧠 Expanding     → Vision-Language Models + LLM Systems + Semantic Retrieval
-🧪 Proof Build    → VLM Playground / Evaluation Mini-Project — In Progress
+👁️ Public Proof  → VisionFind — Working Multimodal AI / VLM System
+🧠 Depth         → LLM Systems + Multimodal Retrieval + Computer Vision
 🛡️ FYP           → Pur-Aman Pakistan
 🚀 Target        → Junior Applied AI / AI Systems Engineer
 ```
